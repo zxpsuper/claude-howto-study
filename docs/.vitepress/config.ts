@@ -35,6 +35,33 @@ export default defineConfig({
                 { text: '能力边界', link: '/basics/limits' },
                 { text: '常用示例', link: '/basics/examples' }
               ]
+            },
+            {
+              text: '进阶篇',
+              items: [
+                { text: '结构化提示词', link: '/intermediate/structured-prompts' },
+                { text: '上下文管理', link: '/intermediate/context-management' },
+                { text: '多轮对话优化', link: '/intermediate/multi-turn-optimization' },
+                { text: 'Claude Code 入门', link: '/intermediate/claude-code-intro' }
+              ]
+            },
+            {
+              text: '高级篇',
+              items: [
+                { text: '提示词工程', link: '/advanced/prompt-engineering' },
+                { text: '任务分解', link: '/advanced/task-decomposition' },
+                { text: '工具集成', link: '/advanced/tool-integration' },
+                { text: 'API 基础', link: '/advanced/api-basics' }
+              ]
+            },
+            {
+              text: '最佳实践',
+              items: [
+                { text: '高效工作流', link: '/best-practices/workflows' },
+                { text: '避坑指南', link: '/best-practices/pitfalls' },
+                { text: '案例分析', link: '/best-practices/case-studies' },
+                { text: '学习资源', link: '/best-practices/resources' }
+              ]
             }
           ]
         }
@@ -72,6 +99,33 @@ export default defineConfig({
                 { text: 'Conversation Tips', link: '/en/basics/conversation-tips' },
                 { text: 'Understanding Limits', link: '/en/basics/limits' },
                 { text: 'Common Examples', link: '/en/basics/examples' }
+              ]
+            },
+            {
+              text: 'Intermediate',
+              items: [
+                { text: 'Structured Prompts', link: '/en/intermediate/structured-prompts' },
+                { text: 'Context Management', link: '/en/intermediate/context-management' },
+                { text: 'Multi-turn Optimization', link: '/en/intermediate/multi-turn-optimization' },
+                { text: 'Claude Code Intro', link: '/en/intermediate/claude-code-intro' }
+              ]
+            },
+            {
+              text: 'Advanced',
+              items: [
+                { text: 'Prompt Engineering', link: '/en/advanced/prompt-engineering' },
+                { text: 'Task Decomposition', link: '/en/advanced/task-decomposition' },
+                { text: 'Tool Integration', link: '/en/advanced/tool-integration' },
+                { text: 'API Basics', link: '/en/advanced/api-basics' }
+              ]
+            },
+            {
+              text: 'Best Practices',
+              items: [
+                { text: 'Effective Workflows', link: '/en/best-practices/workflows' },
+                { text: 'Pitfalls to Avoid', link: '/en/best-practices/pitfalls' },
+                { text: 'Case Studies', link: '/en/best-practices/case-studies' },
+                { text: 'Learning Resources', link: '/en/best-practices/resources' }
               ]
             }
           ]
