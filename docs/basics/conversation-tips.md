@@ -51,4 +51,4 @@ Claude 有时会犯错，直接指出来：
 
 ---
 
-**下一篇：** [能力边界](/zh/basics/limits)
+**下一篇：** [能力边界](/basics/limits)

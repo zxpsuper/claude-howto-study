@@ -62,4 +62,4 @@
 
 ---
 
-**下一篇：** [常用示例](/zh/basics/examples)
+**下一篇：** [常用示例](/basics/examples)

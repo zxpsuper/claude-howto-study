@@ -47,4 +47,4 @@ const anthropic = new Anthropic({
 
 ---
 
-**下一篇：** [第一次对话](/zh/getting-started/first-conversation)
+**下一篇：** [第一次对话](/getting-started/first-conversation)

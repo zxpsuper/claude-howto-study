@@ -50,4 +50,4 @@
 
 ---
 
-**下一篇：** [对话技巧](/zh/basics/conversation-tips)
+**下一篇：** [对话技巧](/basics/conversation-tips)

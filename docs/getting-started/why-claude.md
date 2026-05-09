@@ -31,4 +31,4 @@ Claude 能够保持长时间对话的上下文连贯性。
 
 ---
 
-**下一篇：** [如何访问 Claude](/zh/getting-started/how-to-access)
+**下一篇：** [如何访问 Claude](/getting-started/how-to-access)

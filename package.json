@@ -1,6 +1,7 @@
 {
   "name": "claude-howto-study",
   "version": "1.0.0",
+  "type": "module",
   "description": "Learn Claude with ease - A comprehensive guide",
   "scripts": {
     "dev": "vitepress dev docs",

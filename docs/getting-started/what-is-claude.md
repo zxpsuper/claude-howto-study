@@ -32,4 +32,4 @@ Claude 是由 Anthropic 公司开发的人工智能助手。它基于大语言�
 
 ---
 
-**下一篇：** [为什么用 Claude](/zh/getting-started/why-claude)
+**下一篇：** [为什么用 Claude](/getting-started/why-claude)

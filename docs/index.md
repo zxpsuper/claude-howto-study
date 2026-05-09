@@ -7,7 +7,7 @@ hero:
   actions:
     - theme: brand
       text: 开始学习
-      link: /zh/getting-started/what-is-claude
+      link: /getting-started/what-is-claude
     - theme: alt
       text: English
       link: /en/

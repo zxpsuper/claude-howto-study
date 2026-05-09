@@ -65,4 +65,4 @@
 
 ---
 
-**上一篇：** [能力边界](/zh/basics/limits) | **进入：** [进阶篇](/zh/intermediate/)
+**上一篇：** [能力边界](/basics/limits) | **进入：** [进阶篇](/intermediate/)

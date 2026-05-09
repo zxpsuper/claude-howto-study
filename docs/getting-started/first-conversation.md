@@ -48,4 +48,4 @@ console.log(reverseString('hello')); // 'olleh'
 
 ---
 
-**上一篇：** [如何访问 Claude](/zh/getting-started/how-to-access) | **进入：** [基础篇 - 提示词基础](/zh/basics/prompt-basics)
+**上一篇：** [如何访问 Claude](/getting-started/how-to-access) | **进入：** [基础篇 - 提示词基础](/basics/prompt-basics)
