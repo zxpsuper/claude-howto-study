@@ -1,7 +1,7 @@
 ---
 layout: home
 hero:
-  name: Claude How-to
+  name: Claude Howto
   text: 从入门到精通，学会使用 Claude
   tagline: 面向开发者的 Claude 完整教程
   actions:

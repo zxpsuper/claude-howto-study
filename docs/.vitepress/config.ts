@@ -6,7 +6,7 @@ export default defineConfig({
     root: {
       label: '中文',
       lang: 'zh-CN',
-      title: "Claude How-to",
+      title: "Claude Howto",
       description: "学会使用 Claude，从入门到精通",
       themeConfig: {
         nav: [
