@@ -41,5 +41,12 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/your-repo/claude-howto-study' }
     ]
+  },
+  vite: {
+    server: {
+      fs: {
+        allow: ['..']
+      }
+    }
   }
 })
